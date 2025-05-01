@@ -1,6 +1,6 @@
 {
-  "name": "monarch-app",
-  "version": "1.0.0",
+  "name": "monarch app",
+  "version":"1.0.0",
   "description": "Monarch clothing web app",
   "scripts": {
     "start": "react-scripts start",
